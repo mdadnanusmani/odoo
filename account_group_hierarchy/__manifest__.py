@@ -1,9 +1,9 @@
 # -*- coding: utf-8 -*-
 {
-    'name': "account_group_hierarchy",
+    'name': "Account Group Hierarchy",
 
     'summary': """
-        Chart of account groups and parent of Account Groups""",
+         Account groups and  Account Group Parent and Account Type""",
 
     'description': """
         Account Groups Hierarchy and Account Types
