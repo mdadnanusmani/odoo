@@ -31,4 +31,13 @@
     'demo': [
         'demo/demo.xml',
     ],
+'images': [
+'static/description/banner.PNG',
+'static/description/icon.PNG',
+'static/description/image1.PNG',
+'static/description/image2.PNG',
+'static/description/image3.PNG',
+'static/description/image4.PNG',
+
+],
 }
