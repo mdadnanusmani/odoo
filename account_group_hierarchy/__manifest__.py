@@ -3,10 +3,10 @@
     'name': "account_group_hierarchy",
 
     'summary': """
-        Chart of account groups and parent of COA groups""",
+        Chart of account groups and parent of Account Groups""",
 
     'description': """
-        Chart of account groups and parent of COA groups
+        Account Groups Hierarchy and Account Types
     """,
 
     'author': "Adnan Usmani",
@@ -16,7 +16,8 @@
     # Check https://github.com/odoo/odoo/blob/14.0/odoo/addons/base/data/ir_module_category_data.xml
     # for the full list
     'category': 'Accounting',
-    'version': '0.1',
+    'version': '14.0.1',
+    'license': 'LGPL-3',
 
     # any module necessary for this one to work correctly
     'depends': ['base','account'],
