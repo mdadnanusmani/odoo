@@ -3,7 +3,7 @@
     'name': "Account Group Hierarchy",
 
     'summary': """
-         Account groups and  Account Group Parent and Account Type""",
+         Account groups and  Account Parent and Account Type""",
 
     'description': """
         Account Groups Hierarchy and Account Types
